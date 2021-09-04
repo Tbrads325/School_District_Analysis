@@ -75,14 +75,14 @@ As mentioned previously the actual percentages and average scores barely changed
 Thomas High School Changes:
 
 ### With 9th Grade
-![Name](url)
+![InkedSchool_Summary_Module.jpg](https://github.com/Tbrads325/School_District_Analysis/blob/main/Images/InkedSchool_Summary_Module.jpg)
 ### Without 9th Grade
-![Name](url)
+![InkedSchool_Summary_Challenge.jpg](https://github.com/Tbrads325/School_District_Analysis/blob/main/Images/InkedSchool_Summary_Challenge_.jpg)
 
-Average Math Score: Dropped from 83.418349 to 83.350937
-Average Reading Score: Increased from 83.848930 to 83.896082
-% Passing Math: Dropped from 93.272171 to 93.185690
-% Passing Reading: Dropped from 97.308869 to 97.018739
+Average Math Score: Dropped from 83.418349 to 83.350937\
+Average Reading Score: Increased from 83.848930 to 83.896082\
+% Passing Math: Dropped from 93.272171 to 93.185690\
+% Passing Reading: Dropped from 97.308869 to 97.018739\
 % Overall Passing: Dropped from 90.948012 to 90.630324
 
 
