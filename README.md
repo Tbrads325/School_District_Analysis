@@ -1,4 +1,5 @@
 # School_District_Analysis
+
 ## Overview
 After performing the school district analysis for Maria and her supervisor evidence of academic dishonesty 
 appears within the reading and math scores of 9th grade students at Thomas High School. As a result, this Challenge 
@@ -13,11 +14,11 @@ the same with any changes most likely occuring in the 10th and 100th decimal pla
 
 ### Challenge District Summary
 
-![Name](url)
+![District_Summary_Challenge.png](https://github.com/Tbrads325/School_District_Analysis/blob/main/Images/District_Summary_Challenge.png)
 
 ### Module District Summary
 
-![Name](url)
+![District_Summary_Module.png](https://github.com/Tbrads325/School_District_Analysis/blob/main/Images/District_Summary_Module.png)
 
 - How is the school summary affected?
 Once again school summary is barely influenced after removing the 9th grade reading and math scores of Thomas High School.
@@ -25,11 +26,11 @@ The changes occur within the 10th and 100th decimal places again as shown in the
 
 ### Challenge School Summary
 
-![Name](url)
+![School_Summary_Challenge.png](https://github.com/Tbrads325/School_District_Analysis/blob/main/Images/School_Summary_Challenge.png)
 
 ### Module School Summary 
 
-![Name](url)
+![School_Summary_Module.png](https://github.com/Tbrads325/School_District_Analysis/blob/main/Images/School_Summary_Module.png)
 
 - How does replacing the ninth graders' math and reading scores affect Thomas High School's performance
 relative to other schools?
@@ -40,11 +41,11 @@ As mentioned previously the actual percentages and average scores barely changed
 
 ### Challenge Top 5
 
-![Name](url)
+![Top5_Challenge.png](https://github.com/Tbrads325/School_District_Analysis/blob/main/Images/Top5_Challenge.png)
 
 ### Module Top 5
 
-![Name](url)
+![Top5_Module.png](https://github.com/Tbrads325/School_District_Analysis/blob/main/Images/Top5_Module.png)
 
 - How does replacing the ninth-grade scores affect the following:
 
